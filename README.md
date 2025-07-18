@@ -4,4 +4,3 @@ This project applies **Natural Language Processing (NLP)** techniques to perform
 
 By analyzing real-world review data, this project demonstrates how text mining and sentiment scoring can support decision-making for product development, customer experience improvement, and brand monitoring.
 
-Whether you're a data enthusiast, NLP beginner, or business analyst, this repository offers a complete walkthrough of building an end-to-end sentiment analysis pipeline—from raw text to actionable insights.
